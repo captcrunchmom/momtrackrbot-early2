@@ -1,0 +1,19 @@
+{
+  "name": "momtrackrbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "jquery": "^3.4.1",
+    "jsdom": "^16.2.0",
+    "snekfetch": "^4.0.4",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
